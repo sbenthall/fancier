@@ -17,9 +17,9 @@ To unfollow Twitter users that have been inactive within
 some number of days (90, by default) who also do not
 follow you back, run:
 
-'''
+```
 python3 remove-inactive-followers.py
-'''
+```
 
 ## Python Package Requirements
 
